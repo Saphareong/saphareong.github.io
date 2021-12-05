@@ -1,1 +1,6 @@
-/* About us */
+/* Among us */
+
+.othercard
+{
+	display: inline-block;
+}
